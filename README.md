@@ -1,4 +1,4 @@
-# calculate-age-date-from-birthday
+# calculate-age-day-from-birthday
 
 ## Description
 This will calculate the age and find the day of the week the user was born based from the user's entered birthday. In calculating the age, the days of the week which is 365.2425 is used to accurately compute the age if ever the current year is a leap year or not and if the birthday is February 29. 
