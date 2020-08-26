@@ -2,7 +2,6 @@
 
 ## Description
 This will calculate the age and find the day of the week the user was born based from the user's entered birthday. This project uses the following concept:
-* if else statement
 * classes and object
 * exception handling
 * datetime and calendar modules
@@ -42,12 +41,6 @@ You were born on Wednesday
 As of today, you are now 0 year/s old.
 ```
 ```
-Enter your Birthday [DDMMYYY]: 
->>>: 20203030
-The entered date does not match the DDMMYYYY format.
-Please try Again.
-```
-```
 Enter your Birthday [DDMMYYYY]: 
 >>>: 29021992
 You were born on Saturday
@@ -55,15 +48,21 @@ As of today, you are now 28 year/s old.
 ```
 ```
 Enter your Birthday [DDMMYYY]: 
+>>>: 20203030
+The entered date does not match the DDMMYYYY format.
+Please try again.
+```
+```
+Enter your Birthday [DDMMYYY]: 
 >>>: 0000
 The entered date does not match the DDMMYYYY format.
-Please try Again.
+Please try again.
 ```
 ```
 Enter your Birthday [DDMMYYY]: 
 >>>: asfd811d~2423@!
 The entered date does not match the DDMMYYYY format.
-Please try Again.
+Please try again.
 ```
 
 
